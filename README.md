@@ -8,3 +8,6 @@ College Feedback Sentiment Analysis using ML &amp; Gradio
 2. Run all cells in the notebook.
 3. The Gradio interface will appear at the bottom.
 
+## Gradio Interface Preview
+
+![Gradio Interface](images/gradio_interface.png)
